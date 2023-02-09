@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>About me </title>
+    <link rel="stylesheet" href="./css/about.css">
+</head>
+
+<body>
+    <div class="about">
+        <h3 class="about_tit">You have to keep working hard to become a better version of yourself</h3>
+        <img class="about_bgc" src="./img/from1.png" alt="">
+        <div class='ribbon'>
+            <a href='./index.html'><span>Home</span></a>
+            <a href='./about.html'><span>About</span></a>
+            <a href='./form.html'><span>Form</span></a>
+
+        </div>
+        <div class="me">
+            <img class="me_img" src="./img/imgs19.jpg" alt="">
+            <span class="me_tit animate ">I am a senior in computer science at Simon Fraser University and studied full stack web development at Light House Lab.I used to work at Majority Labs and my job title was rails engineer.EXPERIENCE
+                Undergraduate Research Assistant Jan 2023 - Present
+                Simon Fraser University - Computing Science
+                • Engineered a Gamified Learning Environment to teach Operating Systems.
+                • Contributed to documentation and academic writing.
+                Full Stack Rails Engineer Oct 2019 - Aug 2021
+                Majority Labs - Future Majority Toronto, ON
+                • Transitioned front-end from Stimulus JS to Webpacker & React.
+                • Increased test coverage by 50% via model, controller and end-to-end testing suites.
+                • Remodeled system architecture from a single to multi-tenant application.
+                Sales Associate July 2018 - Sept 2018
+                National Standard Vancouver, BC
+                • Achieved Sales Targets, Overhauled Inventory Organization System and forecast product popularity.
+                PROJECTS
+                QOrder Built a restaurant ordering system using Node.js, ReactJS, PostgreSQL, CSS, Express, Axios which uses qr
+                codes to join a table, order food, and split the tables bill based on what you ate.
+                WikiMap. Built a map generator using Node.js, HTML5, Express, Ajax, EJS, PostgreSQL, Bootstrap, CSS that
+                enables users to create and customize maps, by adding there favorite destinations and render them visually with a
+                360 panorama.
+                Scheduler Built an appointment scheduling web app using Websockets, Node.js, ReactJS, PostgreSQL, CSS, Cypress,
+                Jest, Axios which enables users to book appointments.
+                RELEVANT COURSE WORK
+                - CMPT 410 (Machine Learning) - CMPT 412 (Computer Vision) - CMPT 310 (Introduction to AI)
+                - CMPT 300 (Operating Systems) - MACM 316 (Numerical Analysis)
+            </span>
+        </div>
+        <div class="videos">
+            <span>
+                Welcome to Grayson Lif! Here is my life videoHere is a video that briefly explains the daily life of a programmer.
+                <span>
+            <video width="210%" controls id="video" preload="auto" muted  height="100%" autoplay="autoplay" loop="loop" type="video/mp4" src="./video/videos.mp4"></video>
+
+        </div>
+    </div>
+</body>
+<script>
+    let mucics = document.getElementById('video')
+    document.body.addEventListener('mousemove', function() {
+        setTimeout(() => {
+            mucics.play();
+        }, 2000);
+    }, false);
+</script>
+
+</html>

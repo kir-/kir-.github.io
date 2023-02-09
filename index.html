@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="zh">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>个人网站</title>
+    <link rel="stylesheet" href="./css/index.css">
+</head>
+
+<body>
+    <div class="home">
+        <div class="content">
+            <div class="stars"></div>
+            <img class="bgc" src="./img/imgs38.jpg" width="100%" alt="">
+            <h3 class="title">Welcome my page</h3>
+            <h3 class="titles">This is Grayson's World</h3>
+            <img class="icon" src="./img/down.png" alt="">
+            <div class='ribbon'>
+                <a href='./index.html'><span>Home</span></a>
+                <a href='./about.html'><span>About</span></a>
+                <a href='./form.html'><span>Form</span></a>
+
+            </div>
+
+        </div>
+        <div class="icons">
+            <div class="icons_items">
+                <img class="icons_items_imgs" src="./img/xuexiao.png" alt="">
+                <span>My project</span>
+            </div>
+            <div class="icons_items">
+                <img class="icons_items_imgs" src="./img/canting.png" alt="">
+                <span>My experience</span>
+            </div>
+            <div class="icons_items">
+                <img class="icons_items_imgs" src="./img/fengjing.png" alt="">
+                <span>My skills</span>
+            </div>
+            <div class="icons_items">
+                <img class="icons_items_imgs" src="./img/yewan.png" alt="">
+                <span>My Life</span>
+            </div>
+        </div>
+        <div class="introduce">
+            <div class="introduce_item">
+                <img class="introduce_item_img" src="./img/imgs15.jpg" alt="">
+                <span class="introduce_item_title">As an in-depth computer science student for 3 years, I can use Python, C++, Java, Javascript.</span>
+
+            </div>
+            <div class="introduce_item">
+
+                <span class="introduce_item_titles">I chose Machine Learning because of levrage data to create add skills solution for real world problems.</span>
+                <img class="introduce_item_img" src="./img/imgs36.jpg" alt="">
+            </div>
+            <div class="introduce_item">
+                <img class="introduce_item_img" src="./img/imgs16.jpg" alt="">
+                <span class="introduce_item_title">I hope I can use what I have learned to create a better world and a new life</span>
+            </div>
+            <div class="introduce_item">
+                <span class="introduce_item_titles">The areas I want to develop are natural language processing and generative statistical models.</span>
+                <img class="introduce_item_img" src="./img/imgs14.jpg" alt="">
+            </div>
+        </div>
+        <audio autoplay="autoplay" id="audio" loop="loop">
+                <source src="./video/music.mp3" type="audio/MP3">
+               
+        </audio>
+        <img class="music_img" src="./img/music_img.png" alt="">
+    </div>
+
+</body>
+<script>
+    let mucics = document.getElementById('audio')
+    document.body.addEventListener('mousemove', function() {
+        setTimeout(() => {
+            mucics.play();
+        }, 2000);
+    }, false);
+</script>
+
+</html>
