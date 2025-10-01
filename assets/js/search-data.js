@@ -23,8 +23,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-initial-post",
-          title: 'Initial post.',
+        },{id: "news-one-paper-is-accepted-spotlight-to-moml-2024",
+          title: 'One paper is accepted (spotlight) to MoML 2024.',
+          description: "",
+          section: "News",},{id: "news-one-paper-is-accepted-to-tmlr",
+          title: 'One paper is accepted to TMLR.',
           description: "",
           section: "News",},{
       id: 'light-theme',
