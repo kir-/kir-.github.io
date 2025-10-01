@@ -27,6 +27,6 @@ My research interests span generative modeling, reinforcement learning, and cont
 
 During my undergrad I had the priveledge of conducting research with [Dr. Martin Ester](https://scholar.google.ca/citations?user=ZYwC_CQAAAAJ), where I worked on Generative Flow Networks (GFlowNets) for structure-based drug discovery. 
 
-Currently, I am pursuing several projects involving the application of generative models to model predictive control and multi-agent collision avoidance using HJ reachability.
+Currently, I am pursuing several projects involving the application of generative models to model predictive control and multi-agent collision avoidance using Hamilton-Jacobi reachability.
 
 Reach out at: `graysonl [at] sfu.ca`
