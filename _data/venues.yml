@@ -1,9 +1,11 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"TMLR":
+  url: https://jmlr.org/tmlr/
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"ICRA":
+  url: https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra
+  color: "#4a0000"
 
-"Vision":
-  color: "#009f36"
+"RA-L":
+  url: https://www.ieee-ras.org/publications/ra-l
+  color: "#4a0000"

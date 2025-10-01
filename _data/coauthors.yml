@@ -1,34 +1,55 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"shen":
+  - firstname: ["Tony", "T."]
+    url: https://tsa87.github.io/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"ester":
+  - firstname: ["Martin", "M."]
+    url: https://sites.google.com/view/esterlab
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"seo":
+  - firstname: ["Seonghwan", "S."]
+    url: https://seonghwanseo.github.io/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"kim":
+  - firstname: ["Woo Youn", "W. Y."]
+    url: https://wooyoun.kaist.ac.kr/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"pandey":
+  - firstname: ["Mohit", "M."]
+    url: https://mohitkpandey.github.io/
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"smith":
+  - firstname: ["Jason R", "J. R."]
+    url: https://scholar.google.com/citations?user=w7xVPWIAAAAJ
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"cherkasov":
+  - firstname: ["Artem", "A."]
+    url: https://scholar.google.ca/citations?user=DbrlIYUAAAAJ
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"li":
+  - firstname: ["Yankai", "Y."]
+    # url: 
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"zhou":
+  - firstname: ["Victoria", "V."]
+    # url: 
+
+"chen":
+  - firstname: ["Mo", "M."]
+    url: https://sfumars.com/people/
+
+"li":
+- firstname: ["Ke", "K."]
+  url: https://www.sfu.ca/~keli/
+
+"bui":
+- firstname: ["Minh", "M."]
+  url: https://scholar.google.com/citations?user=wqQZri4AAAAJ
+
+"yang":
+  - firstname: ["Kurtis", "K."]
+    # url: 
+
+"tang":
+  - firstname: ["Andy", "A."]
+    # url: 
