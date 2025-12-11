@@ -25,8 +25,8 @@ I hold a Bachelor’s degree in Computing Science from [Simon Fraser University]
 
 My research interests span generative modeling, reinforcement learning, and control theory. I focus on combining these areas to develop principled approaches for sequential decision-making. In particular, I’m interested in how generative models can be integrated with control-theoretic tools to build robust and efficient methods.
 
-During my undergrad I had the priveledge of conducting research with [Dr. Martin Ester](https://scholar.google.ca/citations?user=ZYwC_CQAAAAJ), where I worked on Generative Flow Networks (GFlowNets) for structure-based drug discovery. 
+During my undergrad I had the privilege of conducting research with [Dr. Martin Ester](https://scholar.google.ca/citations?user=ZYwC_CQAAAAJ), where I worked on Generative Flow Networks (GFlowNets) for structure-based drug discovery. 
 
-Currently, I am pursuing several projects involving the application of generative models to model predictive control and multi-agent collision avoidance using Hamilton-Jacobi reachability.
+More recently I have been working with [Dr. Ke Li](https://scholar.google.com/citations?user=vQc8tI4AAAAJ&hl) and [Dr. Mo Chen](https://scholar.google.com/citations?user=19UAgLUAAAAJ&hl) on applying generative models to model predictive control, and on multi-agent collision with Hamilton-Jacobi reachabilty.
 
 Reach out at: `graysonl [at] sfu.ca`
