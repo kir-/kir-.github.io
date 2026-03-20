@@ -28,10 +28,10 @@
 
 "li":
   - firstname: ["Yankai", "Y."]
-    # url: 
+    url: https://scholar.google.com/citations?user=36VmU3MAAAAJ&hl
 
 "zhou":
-  - firstname: ["Victoria", "V."]
+  - firstname: ["Shuzi", "S."]
     # url: 
 
 "chen":
@@ -48,8 +48,4 @@
 
 "yang":
   - firstname: ["Kurtis", "K."]
-    # url: 
-
-"tang":
-  - firstname: ["Andy", "A."]
     # url: 
