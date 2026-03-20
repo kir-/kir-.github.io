@@ -29,6 +29,9 @@ ninja.data = [{
           section: "News",},{id: "news-one-paper-is-accepted-to-tmlr",
           title: 'One paper is accepted to TMLR.',
           description: "",
+          section: "News",},{id: "news-one-paper-is-accepted-to-icra",
+          title: 'One paper is accepted to ICRA.',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
